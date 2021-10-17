@@ -1,7 +1,10 @@
 ### Olá pessoas...
 ## Sou o João Paulo
 - Moro no :brazil:... em Duque de Caxias - RJ :sunglasses:
-- Amo aprender novas tecnologias, programar, me divertir! 😃
+- Amo... :love
+        aprender novas tecnologias e programar 👨‍💻
+        filmes e séries 🎥
+        ler bastante 📚
 
 ### Estou estudando:
 <div>
