@@ -1,11 +1,14 @@
-### Olá pessoas...
-## Sou o João Paulo
-- Moro no :brazil:... em Duque de Caxias - RJ :sunglasses:
-- Amo...
-<div style="margin-left: 100px;">
-  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; aprender novas tecnologias e programar 👨‍💻 </p>
-  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; filmes e séries 🎥 </p>
-  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ler bastante 📚 </p>
+<h2 align="center"> Olá pessoas... </h2>
+<h1 align="center"> Sou o João Paulo </h1>
+
+<p align="center">
+  Moro no :brazil:... em Duque de Caxias - RJ :sunglasses: </br></br>
+  <i>Amo...</i>
+</p>
+<div align="center">
+  <p> aprender novas tecnologias e programar 👨‍💻 </br>
+      filmes e séries 🎥 </br>
+      ler bastante 📚 </p>
 <div>
 
 ### Estou estudando:
