@@ -18,6 +18,7 @@
   <img alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width:100%;">
   <img alt="reactjs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
   <img alt="docker" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg" style="max-width:100%;">
+  <img alt="mysql" height="50" width="60" src="https://static.cdnlogo.com/logos/m/10/mysql.svg" style="max-width:100%;">
 </div>
 </br>
 
