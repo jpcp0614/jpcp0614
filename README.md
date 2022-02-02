@@ -2,16 +2,17 @@
 <h1 align="center"> Sou o João Paulo </h1>
 
 <p align="center">
-  Moro no :brazil:... em Duque de Caxias - RJ :sunglasses: </br></br>
+  Atualmente, estudo na Trybe (Desenvolvimento Web - FullStack) :sunglasses: </br></br>
   <i>Amo...</i>
 </p>
 <div align="center">
   <p> aprender novas tecnologias e programar 👨‍💻 </br>
       filmes e séries 🎥 </br>
       ler bastante 📚 </p>
+      </br> <a herf='https://www.linkedin.com/in/jpcp0614/'> LinkedIn </a>
 <div>
 
-### Estou estudando:
+### Hard Skills (em desenvolvimento):
 <div>
   <img alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;">
   <img alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;">
