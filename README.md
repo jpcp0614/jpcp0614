@@ -9,7 +9,7 @@
   <p> aprender novas tecnologias e programar 👨‍💻 </br>
       filmes e séries 🎥 </br>
       ler bastante 📚 </p>
-      </br> <a herf='https://www.linkedin.com/in/jpcp0614/'> LinkedIn </a>
+      </br> <a href='https://www.linkedin.com/in/jpcp0614/'> My LinkedIn </a>
 <div>
 
 ### Hard Skills (em desenvolvimento):
