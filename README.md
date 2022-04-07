@@ -6,7 +6,9 @@
   <i>Amo...</i>
 </p>
 <div align="center">
-  <p> aprender novas tecnologias e programar 👨‍💻 </br>
+  <p> aprender novas tecnologias 👨‍💻 </br>
+      ajudar pessoas 🧑‍🤝‍🧑
+      inovação ↗️
       filmes e séries 🎥 </br>
       ler bastante 📚 </p>
       </br> <a href='https://www.linkedin.com/in/jpcp0614/'> My LinkedIn </a>
