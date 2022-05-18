@@ -22,8 +22,9 @@
   <img alt="reactjs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
   <img alt="docker" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg" style="max-width:100%;">
   <img alt="mysql" height="50" width="60" src="https://static.cdnlogo.com/logos/m/10/mysql.svg" style="max-width:100%;">
-  <img alt="mysql" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width:100%;">
-  <img alt="mysql" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;">
+  <img alt="nodejs" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width:100%;">
+  <img alt="typescript" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;">
+  <img alt="mysql" height="50" width="60" src="https://www.svgrepo.com/show/331488/mongodb.svg" style="max-width:100%;">
 </div>
 </br>
 
