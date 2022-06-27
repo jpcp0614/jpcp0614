@@ -5,6 +5,7 @@
   Atualmente, estudo na Trybe (Desenvolvimento Web - FullStack) :sunglasses: </br></br>
   <i>Amo...</i>
 </p>
+
 <div align="center">
   <p> aprender novas tecnologias 👨‍💻 </br>
       ajudar pessoas 🧑‍🤝‍🧑
@@ -12,9 +13,11 @@
       filmes e séries 🎥 </br>
       ler bastante 📚 </p>
       </br> <a href='https://www.linkedin.com/in/jpcp0614/'> Meu LinkedIn </a>
-      
-      </br> <a href='https://jpcp0614.github.io/portfolio/'> Meu Portfolio </a>
 <div>
+  
+<div align='center'>
+  </br> <a href='https://jpcp0614.github.io/portfolio/'> Meu Portfolio </a>
+</div>
 
 ### Hard Skills (em desenvolvimento):
 <div>
@@ -27,6 +30,7 @@
   <img alt="nodejs" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width:100%;">
   <img alt="typescript" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;">
   <img alt="mongodb" height="50" width="60" src="https://www.svgrepo.com/show/331488/mongodb.svg" style="max-width:100%;">
+  <img alt="python" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="max-width:100%;">
 </div>
 </br>
 
