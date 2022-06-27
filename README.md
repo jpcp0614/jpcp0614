@@ -11,7 +11,9 @@
       inovação ↗️
       filmes e séries 🎥 </br>
       ler bastante 📚 </p>
-      </br> <a href='https://www.linkedin.com/in/jpcp0614/'> My LinkedIn </a>
+      </br> <a href='https://www.linkedin.com/in/jpcp0614/'> Meu LinkedIn </a>
+      
+      </br> <a href='https://jpcp0614.github.io/portfolio/'> Meu Portfolio </a>
 <div>
 
 ### Hard Skills (em desenvolvimento):
