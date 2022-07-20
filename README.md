@@ -31,6 +31,7 @@
   <img alt="typescript" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;">
   <img alt="mongodb" height="50" width="60" src="https://www.svgrepo.com/show/331488/mongodb.svg" style="max-width:100%;">
   <img alt="python" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="max-width:100%;">
+  <img alt="go" height="50" width="60" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" style="max-width:100%;">
 </div>
 </br>
 
