@@ -2,7 +2,7 @@
 <h1 align="center"> Sou o João Paulo </h1>
 
 <p align="center">
-  Me formei na Trybe (Desenvolvimento Web - FullStack) :sunglasses: </br></br>
+  Me formei na <a href='https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452280&hsa_src=g&hsa_tgt=kwd-372340162995&hsa_kw=trybe&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIiYvpq-uz-wIVYehcCh365AEqEAAYASAAEgLMH_D_BwE'> Trybe </a> (Desenvolvimento Web - FullStack) :sunglasses: </br></br>
   <i>Amo...</i>
 </p>
 
