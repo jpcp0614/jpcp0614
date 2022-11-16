@@ -2,7 +2,7 @@
 <h1 align="center"> Sou o João Paulo </h1>
 
 <p align="center">
-  Atualmente, estudo na Trybe (Desenvolvimento Web - FullStack) :sunglasses: </br></br>
+  Me formei na Trybe (Desenvolvimento Web - FullStack) :sunglasses: </br></br>
   <i>Amo...</i>
 </p>
 
@@ -11,7 +11,7 @@
       ajudar pessoas 🧑‍🤝‍🧑
       inovação ↗️
       filmes e séries 🎥 </br>
-      ler bastante 📚 </p>
+      ler bastaaaante 📚 </p>
       </br> <a href='https://www.linkedin.com/in/jpcp0614/'> Meu LinkedIn </a>
 <div>
   
