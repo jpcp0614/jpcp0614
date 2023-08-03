@@ -16,7 +16,7 @@
 <div>
   
 <div align='center'>
-  </br> Meu Portfolio </br><a href='https://jpcp0614.github.io/portfolio/'><img alt="html5" height="35" width="35" src="https://static-00.iconduck.com/assets.00/adobe-portfolio-icon-512x512-ttcgj64s.png" style="max-width:100%;"></a>
+  </br> Meu Portfolio </br><a href='https://jpcp0614.github.io/portfolio/'><img alt="html5" height="38" width="38" src="https://static-00.iconduck.com/assets.00/adobe-portfolio-icon-512x512-ttcgj64s.png" style="max-width:100%;"></a>
   
 </div>
 
