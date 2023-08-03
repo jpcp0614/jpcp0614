@@ -12,7 +12,7 @@
       inovação ↗️
       filmes e séries 🎥 </br>
       ler bastaaaante 📚 </p>
-      </br> <a href='https://www.linkedin.com/in/jpcp0614/'> Meu LinkedIn </a>
+      </br> Meu LinkedIn </br><a href='https://www.linkedin.com/in/jpcp0614/'> <img alt="html5" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width:100%;"></a>
 <div>
   
 <div align='center'>
