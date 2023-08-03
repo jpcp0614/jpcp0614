@@ -12,11 +12,12 @@
       inovação ↗️
       filmes e séries 🎥 </br>
       ler bastaaaante 📚 </p>
-      </br> Meu LinkedIn </br><a href='https://www.linkedin.com/in/jpcp0614/'> <img alt="html5" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width:100%;"></a>
+      </br> Meu LinkedIn </br><a href='https://www.linkedin.com/in/jpcp0614/'><img alt="html5" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width:100%;"></a>
 <div>
   
 <div align='center'>
-  </br> <a href='https://jpcp0614.github.io/portfolio/'> Meu Portfolio </a>
+  </br> Meu Portfolio </br><a href='https://jpcp0614.github.io/portfolio/'><img alt="html5" height="35" width="35" src="https://static-00.iconduck.com/assets.00/adobe-portfolio-icon-512x512-ttcgj64s.png" style="max-width:100%;"></a>
+  
 </div>
 
 ### Hard Skills (em desenvolvimento):
