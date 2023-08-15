@@ -1,50 +1,116 @@
-<h2 align="center"> Olá pessoas... </h2>
-<h1 align="center"> Sou o João Paulo </h1>
+E aí galera!!! Sou o João Paulo :nerd_face:
+=====================================================================================================================================
 
-<p align="center">
-  Me formei na <a href='https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452280&hsa_src=g&hsa_tgt=kwd-372340162995&hsa_kw=trybe&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIiYvpq-uz-wIVYehcCh365AEqEAAYASAAEgLMH_D_BwE'> Trybe </a> (Desenvolvimento Web - FullStack) :sunglasses: </br></br>
-  <i>Amo...</i>
+- Sou Desenvolvedor Web FullStack, formado pela Trybe.
+- Faço faculdade de Gestão da TI, pela Gran.
+- Após uma transição de estudos/carreira, me apaixonei por tecnologia!!!
+
+<hr>
+
+<p align='center'>
+  <a href='https://www.linkedin.com/in/jpcp0614/' target='_blank'>
+    <img align='center' src='https://img.shields.io/badge/code_-LinkedIn-blue' alt='LinkedIn' style='width:150px;'/>
+  </a> 
+  <a href='https://jpcp0614.github.io/portfolio/' target='_blank'>
+    <img align='center' src='https://img.shields.io/badge/code_-Portfolio-purple' alt='Portfolio' style='width:150px;'/>
+  </a>
 </p>
-
-<div align="center">
-  <p> aprender novas tecnologias 👨‍💻 </br>
-      ajudar pessoas 🧑‍🤝‍🧑
-      inovação ↗️
-      filmes e séries 🎥 </br>
-      ler bastaaaante 📚 </p>
-      </br> Meu LinkedIn </br><a href='https://www.linkedin.com/in/jpcp0614/'><img alt="html5" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width:100%;"></a>
-<div>
-  
-<div align='center'>
-  </br> Meu Portfolio </br><a href='https://jpcp0614.github.io/portfolio/'><img alt="html5" height="38" width="38" src="https://static-00.iconduck.com/assets.00/adobe-portfolio-icon-512x512-ttcgj64s.png" style="max-width:100%;"></a>
-  
-</div>
-
-### Hard Skills (em desenvolvimento):
-<div>
-  <img alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;">
-  <img alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;">
-  <img alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width:100%;">
-  <img alt="reactjs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
-  <img alt="docker" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg" style="max-width:100%;">
-  <img alt="mysql" height="50" width="60" src="https://static.cdnlogo.com/logos/m/10/mysql.svg" style="max-width:100%;">
-  </br>
-  <img alt="nodejs" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width:100%;">
-  <img alt="typescript" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;">
-  <img alt="mongodb" height="50" width="60" src="https://www.svgrepo.com/show/331488/mongodb.svg" style="max-width:100%;">
-  <img alt="python" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="max-width:100%;">
-  <img alt="go" height="50" width="60" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" style="max-width:100%;">
-  <img alt="vue" height="40" width="50" src="https://en.vetores.org/d/vue-js.svg" style="max-width:100%;">
-</div>
 </br>
 
+<h3 align="center">Hard Skills</h3>
 
-<!-- <img align="right" width="280px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif sobre tecnologia" /> -->
+<table align='center'>
+  <tr>
+    <th>Linguagens</th>
+    <th>Front-end</th>
+    <th>Back-end - Database</th>
+    <th>Testing</th>
+    <th>Devops</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      </a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <div>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+        </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        </a>
+      </div>
+      <div>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        </a>
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        </a>
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+        </a>
+      </div>
+      <div>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+        </a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        </a>
+        <a href="https://heroku.com" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+      </a>
+      <a href="https://mochajs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+      </a>
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-![Git Status](https://github-readme-stats.vercel.app/api?username=jpcp0614&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&custom_title=Stats)
+</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcp0614&langs_count=10&layout=compact&theme=dark&text_color=fff&bg_color=0d1117&border_radius=8&title_color=0fa36b&custom_title=Languages)](https://github.com/jpcp0614)
+<div align="center">
+  <a href="https://github.com/jpcp0614">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jpcp0614&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&custom_title=Stats"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcp0614&langs_count=10&layout=compact&theme=dark&text_color=fff&bg_color=0d1117&border_radius=8&title_color=0fa36b&custom_title=Languages"/>
+</div>
 
-##
-
-<!--![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)-->
