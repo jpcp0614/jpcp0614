@@ -1,9 +1,9 @@
 E aí galera!!! Sou o João Paulo :nerd_face:
 =====================================================================================================================================
 
-- Sou Desenvolvedor Web FullStack, formado pela Trybe.
-- Faço faculdade de Gestão da TI, pela Gran.
-- Após uma transição de estudos/carreira, me apaixonei por tecnologia!!!
+- :space_invader: Sou Desenvolvedor Web FullStack, formado pela Trybe.
+- :man_technologist: Faço faculdade de Gestão da TI, pela Gran.
+- :sparkles: Após uma transição de estudos/carreira, me apaixonei por tecnologia!!!
 
 <hr>
 
