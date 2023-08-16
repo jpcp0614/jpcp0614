@@ -8,13 +8,13 @@ E aí galera!!! Sou o João Paulo :nerd_face:
 <hr>
 
 <p align='center'>
-  <a href='https://www.linkedin.com/in/jpcp0614/' target='_blank'>
+  <a href='https://www.linkedin.com/in/jpcp0614/' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-LinkedIn-blue' alt='LinkedIn' width='150px'/>
   </a> 
-  <a href='https://jpcp0614.github.io/portfolio/' target='_blank'>
+  <a href='https://jpcp0614.github.io/portfolio/' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-Portfolio-purple' alt='Portfolio' width='150px'/>
   </a>
-  <a href='https://jpcp0614.github.io/DevLink/' target='_blank'>
+  <a href='https://jpcp0614.github.io/DevLink/' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-DevLink-green' alt='DevLink' width='150px'/>
   </a>
 </p>
