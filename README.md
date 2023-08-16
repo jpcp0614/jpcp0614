@@ -76,4 +76,15 @@ E aí galera!!! Sou o João Paulo :nerd_face:
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jpcp0614&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&custom_title=Stats"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcp0614&langs_count=10&layout=compact&theme=dark&text_color=fff&bg_color=0d1117&border_radius=8&title_color=0fa36b&custom_title=Languages"/>
 </div>
+</br>
+</br>
+
+<div align='center'>
+
+[![wakatime](https://wakatime.com/badge/user/b4438ff2-ea6b-421c-953a-0a99da42c7ec.svg)](https://wakatime.com/@b4438ff2-ea6b-421c-953a-0a99da42c7ec)
+  
+</div>
+
+
+
 
