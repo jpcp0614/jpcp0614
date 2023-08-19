@@ -14,7 +14,7 @@ E aí galera!!! Sou o João Paulo :nerd_face:
   <a href='https://jpcp0614.github.io/portfolio/' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-Portfolio-purple' alt='Portfolio' width='150px'/>
   </a>
-  <a href='https://jpcp0614.github.io/DevLink/' target='blank'>
+  <a href='https://jpcp0614.github.io/DevLinks/' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-DevLink-green' alt='DevLink' width='150px'/>
   </a>
 </p>
