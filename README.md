@@ -45,6 +45,7 @@ E aí galera!!! Sou o João Paulo :nerd_face:
       <div>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+          <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="40" height="40"/>
       </div>
     </td>
     <td align="center">
