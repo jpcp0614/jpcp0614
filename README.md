@@ -7,6 +7,7 @@ E aí galera!!! Sou o João Paulo :nerd_face:
 
 <hr>
 
+
 <p align='center'>
   <a href='https://www.linkedin.com/in/jpcp0614/' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-LinkedIn-blue' alt='LinkedIn' width='150px'/>
@@ -19,6 +20,16 @@ E aí galera!!! Sou o João Paulo :nerd_face:
   </a>
 </p>
 </br>
+
+<h3 align="center">Projetos</h3>
+
+<p align="center">
+  <a href='https://jpcp0614.github.io/Project-Secret-Word/' target='blank'>
+      <img align='center' src='https://img.shields.io/badge/code_-SecretWord-khaki' alt='Project Secret Word' width='150px' />
+    </a> 
+</p>
+
+<hr>
 
 <h3 align="center">Hard Skills</h3>
 
