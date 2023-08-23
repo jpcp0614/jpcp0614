@@ -1,11 +1,15 @@
+<div align="center">
+
 E aí galera!!! Sou o João Paulo :nerd_face:
 =====================================================================================================================================
 
-- :space_invader: Sou Desenvolvedor Web FullStack, formado pela Trybe.
-- :man_technologist: Faço faculdade de Gestão da TI, pela Gran.
-- :sparkles: Após uma transição de estudos/carreira, me apaixonei por tecnologia!!!
+:space_invader: Sou Desenvolvedor Web FullStack, formado pela Trybe. <br>
+:man_technologist: Faço faculdade de Gestão da TI, pela Gran. <br>
+:sparkles: Após uma transição de estudos/carreira, me apaixonei por tecnologia!!!
+  
+</div>
 
-<p align='left'>
+<p align='center'>
   <a href='https://www.linkedin.com/in/jpcp0614/' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-LinkedIn-blue' alt='LinkedIn' width='150px'/>
   </a> 
