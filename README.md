@@ -3,8 +3,8 @@
 E aí galera!!! Sou o João Paulo :nerd_face:
 =====================================================================================================================================
 
-:space_invader: Sou Desenvolvedor Web FullStack, formado pela Trybe. <br>
-:man_technologist: Faço faculdade de Gestão da TI, pela Gran. <br>
+:space_invader: Sou Desenvolvedor Web FullStack, formado pela <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452157&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad=1&gclid=EAIaIQobChMI_PH69vfxgAMVCmSRCh2EkQN5EAAYASAAEgJ_0_D_BwE" target="blank">Trybe</a>. <br>
+:man_technologist: Faço Gestão da TI, pela <a href="https://www.grancursosonline.com.br/" target="blank">Faculdade Gran</a>. <br>
 :sparkles: Após uma transição de estudos/carreira, me apaixonei por tecnologia!!!
   
 </div>
