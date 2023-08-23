@@ -5,10 +5,7 @@ E aí galera!!! Sou o João Paulo :nerd_face:
 - :man_technologist: Faço faculdade de Gestão da TI, pela Gran.
 - :sparkles: Após uma transição de estudos/carreira, me apaixonei por tecnologia!!!
 
-<hr>
-
-
-<p align='center'>
+<p align='left'>
   <a href='https://www.linkedin.com/in/jpcp0614/' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-LinkedIn-blue' alt='LinkedIn' width='150px'/>
   </a> 
@@ -19,8 +16,9 @@ E aí galera!!! Sou o João Paulo :nerd_face:
     <img align='center' src='https://img.shields.io/badge/code_-DevLink-green' alt='DevLink' width='150px'/>
   </a>
 </p>
-</br>
 
+<hr>
+<br>
 <h3 align="center">Projetos</h3>
 
 <p align="center">
@@ -30,6 +28,7 @@ E aí galera!!! Sou o João Paulo :nerd_face:
 </p>
 
 <hr>
+<br>
 
 <h3 align="center">Hard Skills</h3>
 
