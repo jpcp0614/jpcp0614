@@ -29,9 +29,6 @@ E aí galera!!! Sou o João Paulo :nerd_face:
   <a href='https://jpcp0614.github.io/Project-Secret-Word/' target='blank'>
       <img align='center' src='https://img.shields.io/badge/code_-SecretWord-khaki' alt='Project Secret Word' width='150px' />
     </a>
-  <a href='https://jpcp0614.github.io/Project-Secret-Word/' target='blank'>
-      <img align='center' src='https://img.shields.io/badge/code_-SecretWord-khaki' alt='Project Secret Word' width='150px' />
-    </a> 
 </p>
 
 <hr>
