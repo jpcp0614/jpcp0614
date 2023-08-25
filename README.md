@@ -59,7 +59,7 @@ E aí galera!!! Sou o João Paulo :nerd_face:
       <div>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-          <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="40" height="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="vite" width="40" height="40"/>
       </div>
     </td>
     <td align="center">
@@ -78,9 +78,14 @@ E aí galera!!! Sou o João Paulo :nerd_face:
         <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
     </td>
     <td align="center">
+      <div>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+      </div>
+      <div>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+        <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="40" height="40"/>
+      </div>
     </td>
   </tr>
 </table>
