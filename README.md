@@ -26,9 +26,13 @@ E aí galera!!! Sou o João Paulo :nerd_face:
 <h3 align="center">Projetos</h3>
 
 <p align="center">
+  <a align='center' href='https://jpcp0614.github.io/Project-Pixels-Art/' target='blank'>
+    <img align='center' src='https://img.shields.io/badge/code_-PixelsArt-orange' alt='Project Pixels Art' width='150px' />
+  </a>
   <a href='https://jpcp0614.github.io/Project-Secret-Word/' target='blank'>
-      <img align='center' src='https://img.shields.io/badge/code_-SecretWord-khaki' alt='Project Secret Word' width='150px' />
-    </a>
+    <img align='center' src='https://img.shields.io/badge/code_-SecretWord-khaki' alt='Project Secret Word' width='150px' height='33px' />
+  </a>
+  
 </p>
 
 <hr>
