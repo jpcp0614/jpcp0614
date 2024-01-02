@@ -32,6 +32,9 @@ E aí galera!!! Sou o João Paulo :nerd_face:
   <a href='https://jpcp0614.github.io/Project-Secret-Word/' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-SecretWord-khaki' alt='Project Secret Word' height='33px' />
   </a>
+   <a href='https://github.com/jpcp0614/FullStack/tree/jp/Fundamentos/Projetos/Zoo_Functions' target='blank'>
+    <img align='center' src='https://img.shields.io/badge/code_-ZooFunc-blue' alt='DevLink' width='150px'/>
+  </a>
   
 </p>
 
