@@ -35,6 +35,9 @@ E aí galera!!! Sou o João Paulo
    <a href='https://github.com/jpcp0614/FullStack/tree/jp/Fundamentos/Projetos/Zoo_Functions' target='blank'>
     <img align='center' src='https://img.shields.io/badge/code_-ZooFunc-blue' alt='DevLink' width='150px'/>
   </a>
+  <a href='https://alura-gemini-vert.vercel.app/' target='blank'>
+    <img align='center' src='https://img.shields.io/badge/code_-AluraGemini-purple' alt='AluraGemini' width='190px'/>
+  </a>
   
 </p>
 
